@@ -1,4 +1,4 @@
-class Duck : IAnimal
+class Lion : IAnimal
 {
     public void MakeSound()
     {
